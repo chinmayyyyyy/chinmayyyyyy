@@ -7,7 +7,8 @@ I am a software developer with a passion for **web development** and **machine l
 
 ### 👨‍💻 My projects and contributions:
 - [https://chinmayghayal.me/](https://chinmayghayal.me/)
-- https://github.com/pro-Grammerrrr/virtualHealthRecord
+- https://paytm-project-merchant-app-eta.vercel.app
+- https://paytm-project-user-app-wallet.vercel.app/
 - https://github.com/chinmayyyyyy/TranscribeEase
   
 
@@ -53,5 +54,5 @@ I am a software developer with a passion for **web development** and **machine l
 
 🌍 My Website: [https://chinmayghayal.me](https://chinmayghayal.me)<br>
 📱 My LinkedIn: [Chinmay Ghayal](www.linkedin.com/in/chinmay-ghayal)
-
+LeetCode : https://leetcode.com/u/chinmayyy--15/
 ---
