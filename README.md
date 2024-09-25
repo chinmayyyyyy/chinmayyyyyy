@@ -3,6 +3,8 @@
 
 ## Hello, I'm Chinmay Ghayal 👋
 
+![code](https://github.com/user-attachments/assets/33f34719-d288-4ec9-b079-5eb77d7354ca)
+
 I am a software developer with a passion for **web development** and **machine learning**. I specialize in **full-stack development** using **JavaScript**, **TypeScript**, **React.js**, and **Next.js** on the frontend, and **Node.js**, **Express.js**, and **NestJS** on the backend. I also work with **React**, **WebSocket**, **WebRTC**, and **REST APIs** for building dynamic and real-time applications, along with **Prisma** and **PostgreSQL** for database management.
 
 ### 👨‍💻 My projects and contributions:
