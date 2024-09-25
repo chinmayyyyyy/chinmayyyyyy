@@ -53,6 +53,6 @@ I am a software developer with a passion for **web development** and **machine l
 ---
 
 🌍 My Website: [https://chinmayghayal.me](https://chinmayghayal.me)<br>
-📱 My LinkedIn: [Chinmay Ghayal](www.linkedin.com/in/chinmay-ghayal)
-LeetCode : https://leetcode.com/u/chinmayyy--15/
+📱 My LinkedIn: [Chinmay Ghayal](www.linkedin.com/in/chinmay-ghayal)<br>
+👨🏻‍💻LeetCode : [chinmayyy--15](https://leetcode.com/u/chinmayyy--15/)
 ---
