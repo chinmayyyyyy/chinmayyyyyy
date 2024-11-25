@@ -18,7 +18,7 @@ I am a software developer with a passion for **web development** and **machine l
 
 ### 📈 GitHub statistics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmayyyyyy&show_icons=true" alt="statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayyyyyy&show_icons=true&count_private=true" alt="statistics">
 </p>
 
 ---
