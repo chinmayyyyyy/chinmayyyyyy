@@ -52,6 +52,41 @@ I am a software developer with a passion for **web development** and **machine l
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logoColor=white&logo=webrtc)
 ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=for-the-badge&logoColor=white&logo=rest-api)
 
+<!-- Github Stats --> 
+### Github stats:
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmayyyyyy&theme=tokyonight"/>
+    </td>
+     <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmayyyyyy&theme=tokyonight"/>
+    </td>
+  </tr>
+  
+  <tr>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayyyyyy&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=soumali28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" /> -->
+    </td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmayyyyyy&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+  
+</table>
+
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=chinmayyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="soumali28" /> </p>
+<p>
+<!-- <p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumali28&theme=tokyonight" />
+</p> -->
+<!-- 
+[![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28) -->
+<!--
+![](https://komarev.com/ghpvc/?username=soumali28&label=VIEWS&color=blueviolet) -->
 ---
 
 🌍 My Website: [https://chinmayghayal.me](https://chinmayghayal.me)<br>
