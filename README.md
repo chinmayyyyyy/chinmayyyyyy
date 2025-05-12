@@ -87,7 +87,6 @@ I am a software developer with a passion for **web development** and **machine l
 [![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28) -->
 <!--
 ![](https://komarev.com/ghpvc/?username=soumali28&label=VIEWS&color=blueviolet) -->
----
 
 🌍 My Website: [https://chinmayghayal.me](https://chinmayghayal.me)<br>
 📱 My LinkedIn: [Chinmay Ghayal](www.linkedin.com/in/chinmay-ghayal)<br>
