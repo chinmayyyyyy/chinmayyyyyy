@@ -8,7 +8,7 @@
 I am a software developer with a passion for **web development** and **machine learning**. I specialize in **full-stack development** using **JavaScript**, **TypeScript**, **React.js**, and **Next.js** on the frontend, and **Node.js**, **Express.js**, and **NestJS** on the backend. I also work with **React**, **WebSocket**, **WebRTC**, and **REST APIs** for building dynamic and real-time applications, along with **Prisma** and **PostgreSQL** for database management.
 
 ### 👨‍💻 My projects and contributions:
-- [https://chinmayghayal.me/](https://chinmayghayal.me/)
+- [https://chinmayghayal.me/](https://chinmayghayal.tech/)
 - https://paytm-project-merchant-app-eta.vercel.app
 - https://paytm-project-user-app-wallet.vercel.app/
 - https://github.com/chinmayyyyyy/TranscribeEase
