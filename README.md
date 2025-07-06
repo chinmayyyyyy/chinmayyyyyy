@@ -88,7 +88,7 @@ I am a software developer with a passion for **web development** and **machine l
 <!--
 ![](https://komarev.com/ghpvc/?username=soumali28&label=VIEWS&color=blueviolet) -->
 
-🌍 My Website: [https://chinmayghayal.me](https://chinmayghayal.tech)<br>
+🌍 My Website: [https://chinmayghayal.tech](https://chinmayghayal.tech)<br>
 📱 My LinkedIn: [Chinmay Ghayal](www.linkedin.com/in/chinmay-ghayal)<br>
 👨🏻‍💻LeetCode : [chinmayyy--15](https://leetcode.com/u/chinmayyy--15/)
 ---
